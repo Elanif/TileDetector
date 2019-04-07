@@ -41,3 +41,7 @@ doxygen/
 *.exe
 *.out
 *.app
+
+#My stuff
+*.png
+*.tilecont
